@@ -2,8 +2,7 @@
     # Please Don't remove credit.
         # Born to make history @LazyDeveloper !
 
-    # Thank you LazyDeveloper for helping us in this Journey
-lazy_utils
+    # Thank you LazyDeveloper for helping us in this Journ
 import math
 import time 
 from Script import script
